@@ -1,0 +1,10 @@
+C:\Users\G.force\source\repos\Project Calculator programming 2 (bayan alkhatieb)\Project Calculator programming 2 (bayan alkhatieb)\bin\Debug\Project Calculator programming 2 (bayan alkhatieb).exe.config
+C:\Users\G.force\source\repos\Project Calculator programming 2 (bayan alkhatieb)\Project Calculator programming 2 (bayan alkhatieb)\bin\Debug\Project Calculator programming 2 (bayan alkhatieb).exe
+C:\Users\G.force\source\repos\Project Calculator programming 2 (bayan alkhatieb)\Project Calculator programming 2 (bayan alkhatieb)\bin\Debug\Project Calculator programming 2 (bayan alkhatieb).pdb
+C:\Users\G.force\source\repos\Project Calculator programming 2 (bayan alkhatieb)\Project Calculator programming 2 (bayan alkhatieb)\obj\Debug\Project Calculator programming 2 (bayan alkhatieb).csproj.AssemblyReference.cache
+C:\Users\G.force\source\repos\Project Calculator programming 2 (bayan alkhatieb)\Project Calculator programming 2 (bayan alkhatieb)\obj\Debug\Project_Calculator_programming_2__bayan_alkhatieb_.Form1.resources
+C:\Users\G.force\source\repos\Project Calculator programming 2 (bayan alkhatieb)\Project Calculator programming 2 (bayan alkhatieb)\obj\Debug\Project_Calculator_programming_2__bayan_alkhatieb_.Properties.Resources.resources
+C:\Users\G.force\source\repos\Project Calculator programming 2 (bayan alkhatieb)\Project Calculator programming 2 (bayan alkhatieb)\obj\Debug\Project Calculator programming 2 (bayan alkhatieb).csproj.GenerateResource.cache
+C:\Users\G.force\source\repos\Project Calculator programming 2 (bayan alkhatieb)\Project Calculator programming 2 (bayan alkhatieb)\obj\Debug\Project Calculator programming 2 (bayan alkhatieb).csproj.CoreCompileInputs.cache
+C:\Users\G.force\source\repos\Project Calculator programming 2 (bayan alkhatieb)\Project Calculator programming 2 (bayan alkhatieb)\obj\Debug\Project Calculator programming 2 (bayan alkhatieb).exe
+C:\Users\G.force\source\repos\Project Calculator programming 2 (bayan alkhatieb)\Project Calculator programming 2 (bayan alkhatieb)\obj\Debug\Project Calculator programming 2 (bayan alkhatieb).pdb
